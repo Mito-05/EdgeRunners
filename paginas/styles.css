@@ -122,7 +122,7 @@ img {
     color: #F2b950;
 }
 
-
+/* Hero*/
 .hero-section {
     min-height: 80vh; 
     height: 80vh; 
@@ -279,7 +279,7 @@ img {
     overflow: hidden; 
     border: 5px solid transparent; 
     border-image-slice: 1; 
-    border-image: linear-gradient(45deg, #F2B950 0%, #CF4E93 50%, #2A3345 100%); /* CORREGIDO */
+    border-image: linear-gradient(45deg, #F2B950 0%, #CF4E93 50%, #2A3345 100%); 
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.15); 
     margin-bottom: 20px; 
 }
@@ -480,8 +480,6 @@ img {
     text-align: right;
     margin-top: 15px; 
 }
-
-
 
 
 
