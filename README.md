@@ -1,5 +1,6 @@
 ## TITULO
 DevOrbit
+
 Proyecto de desarrollo web - DAW
 
 # Equipo
@@ -13,5 +14,7 @@ Manuel Vasco
 
 # Tecnologías
 HTML5
+
 CSS3
+
 Git/GitHub
