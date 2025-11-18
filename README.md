@@ -1,4 +1,3 @@
-## TITULO
 # DevOrbit
 
 Proyecto de desarrollo web - DAW
