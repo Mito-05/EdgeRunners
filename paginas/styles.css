@@ -122,7 +122,7 @@ img {
     color: #F2b950;
 }
 
-
+/* Hero*/
 .hero-section {
     min-height: 80vh; 
     height: 80vh; 
@@ -480,8 +480,6 @@ img {
     text-align: right;
     margin-top: 15px; 
 }
-
-
 
 
 

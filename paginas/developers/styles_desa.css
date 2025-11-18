@@ -208,13 +208,13 @@ img {
 
 
 .melicode {
-    background-color: #f7a63d; /* Naranja/Amarillo */
+    background-color: #f7a63d; 
     color: white; 
 }
 
 
 .linkedin {
-    background-color: #f7a63d; /* Azul de LinkedIn */
+    background-color: #f7a63d; 
     color: white;
 }
 
@@ -225,7 +225,6 @@ img {
 
 
 .portfolio-section {
-    /* Degradado: del naranja al gris oscuro */
     background: linear-gradient(135deg, #2a3345 0%, #cf4e93 75%, #f2b950 100%);
     padding: 40px 5%;
     margin-top: 50px;
