@@ -1,10 +1,10 @@
 # Project name ⭐
 
-### Dev Orbit 
+### DevOrbit 
 
 # Description 📄
 
-> **Dev Orbit** is the website of a startup dedicated to transforming ideas into exceptional digital experiences. We specialize in web application development, UX/UI design, and QA & Testing, providing innovative, tailored solutions to help our clients grow in the digital world. The website highlights the company’s identity and clearly communicates its main services:
+> **DevOrbit** is the website of a startup dedicated to transforming ideas into exceptional digital experiences. We specialize in web application development, UX/UI design, and QA & Testing, providing innovative, tailored solutions to help our clients grow in the digital world. The website highlights the company’s identity and clearly communicates its main services:
 
 * **Modern Web Development:** Building scalable, secure, and optimized web applications, with efficient database and API integrations.
 
@@ -29,9 +29,7 @@
 <img width="1885" height="724" alt="Captura de pantalla 2025-11-25 141345" src="https://github.com/user-attachments/assets/741a3074-f99c-49d0-90d7-f13182c3c2e9" />
 
 # Stacks ⚙️
-* Frontend:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" /> 
+* Frontend:<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" /> 
 
 * Version Control & Project Management: 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" />
