@@ -46,7 +46,15 @@
 
 # To install project
 
-* 
+1.- Clone the repository
+
+* git clone https://github.com/Mito-05/EdgeRunners.git
+
+2.- Open the project
+
+* Navigate to the project folder:
+* Open the index.html file in your preferred web browser.
+* You can double-click the file or right-click → Open with → Browser.
 
 
 # Methodology 📚
@@ -71,4 +79,4 @@
 
 🌐 **Language Switcher (Spanish / English):** Implement a toggle or automatic detection to allow users to switch between Spanish and English content easily.  
 
-# License 
+
