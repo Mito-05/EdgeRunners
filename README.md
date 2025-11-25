@@ -30,19 +30,19 @@
 
 # Stacks ⚙️
 * Frontend:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" /> Html
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" /> Css
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" /> 
 
 * Version Control & Project Management: 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" />  Github
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="30" />  Trello
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="30" /> 
 
 * Project sketch and final design: Figma.
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30" /> Figma.
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30" /> 
 
 * Hosting & Cloud Services:
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/vercel.svg" width="30" /> Vercel
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cloudinary.svg" width="30" /> Cloudinary
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/vercel.svg" width="30" /> 
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cloudinary.svg" width="30" /> 
 
 # To install project
 
