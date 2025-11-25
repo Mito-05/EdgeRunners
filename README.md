@@ -14,11 +14,11 @@
 
 # Members 🤩
 
-* [Diego Alonso Arias](https://github.com/diegojosealonso) - SCRUM Master
+* [Diego Alonso Arias](https://github.com/diegojosealonso) - Product Owner 
 
 * [Melissa Guerrero](https://github.com/Melycode) - Developer 
 
-* Isabel Ruiz- Product Owner
+* [Isabel Ruiz](https://github.com/whoischabola) - SCRUM Master
 
 * [Manuel Vasco](https://github.com/Mito-05) - Developer
 
