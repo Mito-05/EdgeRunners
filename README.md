@@ -19,8 +19,7 @@
 
 # Members 🤩
 
-Diego Alonso Arias 
-
+[Diego Alonso Arias](https://github.com/diegojosealonso)
 
 [Melissa Guerrero](https://github.com/Melycode)
 
@@ -29,9 +28,13 @@ Isabel Ruiz
 [Manuel Vasco](https://github.com/Mito-05)
 
 # Stacks ⚙️
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" /> HTML5
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" /> CSS3
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" />  GITHUB
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="30" />  TRELLO
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30" />  FIGMA
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cloudinary.svg" width="30" /> CLOUDINARY
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/vercel.svg" width="30" /> VERCEL
 
-HTML5
 
-CSS3
 
-Git/GitHub
