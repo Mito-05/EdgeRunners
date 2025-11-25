@@ -29,18 +29,13 @@
 <img width="1885" height="724" alt="Captura de pantalla 2025-11-25 141345" src="https://github.com/user-attachments/assets/741a3074-f99c-49d0-90d7-f13182c3c2e9" />
 
 # Stacks ⚙️
-* Frontend:<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" /> 
+* Frontend <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" /> 
 
-* Version Control & Project Management: 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="30" /> 
+* Version Control & Project Management <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="30" /> 
 
-* Project sketch and final design: Figma.
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30" /> 
+* Project sketch and final design <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30" /> 
 
-* Hosting & Cloud Services:
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/vercel.svg" width="30" /> 
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cloudinary.svg" width="30" /> 
+* Hosting & Cloud Services <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/vercel.svg" width="30" />  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cloudinary.svg" width="30" /> 
 
 # To install project
 
