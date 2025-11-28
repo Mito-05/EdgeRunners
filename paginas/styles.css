@@ -144,12 +144,7 @@ img {
     color: white; 
     box-sizing: border-box;
     height: 100%; 
-    background: linear-gradient(
-        135deg, 
-        #2A3345 0%, 
-        #CF4E93 75%,
-        #F2B950 100%
-    );
+     background: linear-gradient(180deg, #2A3345 0%, #613254 75%, #8D3161, #C07558, #F2B950 100%);
     z-index: 2; 
     position: relative; 
 }
@@ -320,8 +315,7 @@ img {
 }
 
 .contact-section {
-    background-color: #F2B950; 
-    background-size: 50px 50px; 
+    background-color: #7D4464;
     padding: 30px 5%; 
     font-family: Arial, sans-serif;
     text-align: center;
@@ -398,7 +392,7 @@ img {
 
 
 .submit-button {
-    background-color: #2A3345; 
+    background-color: #F2B950; 
     color: white; 
     padding: 10px 35px; 
     border: none;
@@ -424,7 +418,7 @@ img {
 
 
 .portfolio-section {
-    background: linear-gradient(135deg, #2a3345 0%, #cf4e93 75%, #f2b950 100%);
+    background: linear-gradient(180deg, #2A3345 0%, #613254 75%, #8D3161, #C07558, #F2B950 100%);
     padding: 40px 5%;
     margin-top: 0; 
     color: white; 
