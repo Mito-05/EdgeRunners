@@ -125,7 +125,7 @@ img {
 /* Hero*/
 .hero-section {
     min-height: 80vh; 
-    height: 80vh; 
+    height: 80vh;
     overflow: hidden; 
     position: relative; 
     margin: 0; 
@@ -502,36 +502,46 @@ footer {
     background-color: #282c34;
     color: #e0e0e0;
     padding: 20px 0;
-    font-family: monospace;
 }
 
-.container {
+.container_footer {
     max-width: 1200px;
-    margin: 0 auto;
+    margin: 0 auto; 
     padding: 0 15px;
 }
 
+
 .footer-content {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-between; 
+    flex-wrap: nowrap; 
 }
 
 .contact-info,
 .location-copyright {
-    flex-basis: 48%;
+    flex-basis: 48%; 
     margin-bottom: 20px;
+}
+
+
+.contact-info {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start; 
+    text-align: left; 
 }
 
 .contact-item {
     display: flex;
-    align-items: center;
+    align-items: center; 
     margin-bottom: 8px;
+    width: fit-content; 
 }
 
 .contact-item i {
     font-size: 1.2em;
-    width: 25px;
-    text-align: center;
+    width: 25px; 
+    text-align: center; 
     margin-right: 10px;
     color: #e0e0e0;
 }
@@ -541,24 +551,16 @@ footer {
     text-decoration: none;
 }
 
-.copyright-line {
-    margin-top: 20px;
-    font-size: 0.9em;
-    text-align: right;
+
+.location-copyright {
+    text-align: right; 
 }
 
 .location-line {
-    text-align: right;
     margin-bottom: 4px;
 }
 
-    .contact-info,
-    .location-copyright {
-        flex-basis: 100%;
-        text-align: left;
-    }
-    
-    .location-line,
-    .copyright-line {
-        text-align: left;
-    }
+.copyright-line {
+    margin-top: 20px;
+    font-size: 0.9em;
+}
