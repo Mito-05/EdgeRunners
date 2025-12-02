@@ -148,7 +148,7 @@ img {
     color: white; 
     box-sizing: border-box;
     height: 100%; 
-     background: linear-gradient(180deg, #2A3345 0%, #613254 75%, #8D3161, #C07558, #F2B950 100%);
+    background: linear-gradient(180deg, #2A3345 0%, #613254 75%, #8D3161, #C07558, #F2B950 100%);
     z-index: 2; 
     position: relative; 
 }
@@ -345,7 +345,7 @@ img {
 .contact-main-title {
     font-size: 1.5em; 
     font-weight: bold;
-    color: #2A3345; 
+    color: #f7f7f8; 
     margin-bottom: 35px; 
     text-align: left; 
     max-width: 900px; 
