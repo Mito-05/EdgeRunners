@@ -1,10 +1,10 @@
 # Project name ⭐
 
-### DevOrbit 
+### EdgeRunners 
 
 # Description 📄
 
-> **DevOrbit** is the website of a startup dedicated to transforming ideas into exceptional digital experiences. We specialize in web application development, UX/UI design, and QA & Testing, providing innovative, tailored solutions to help our clients grow in the digital world. The website highlights the company’s identity and clearly communicates its main services:
+> **EdgeRunners** is the website of a startup dedicated to transforming ideas into exceptional digital experiences. We specialize in web application development, UX/UI design, and QA & Testing, providing innovative, tailored solutions to help our clients grow in the digital world. The website highlights the company’s identity and clearly communicates its main services:
 
 * **Modern Web Development:** Building scalable, secure, and optimized web applications, with efficient database and API integrations.
 
@@ -23,10 +23,11 @@
 * [Manuel Vasco](https://github.com/Mito-05) - Developer
 
 # Screenshots 📷
-<img width="1890" height="913" alt="Captura de pantalla 2025-11-25 141056" src="https://github.com/user-attachments/assets/7eb1d12a-e8c1-4f5e-8a91-dc1ef986d71b" />
-<img width="1892" height="655" alt="Captura de pantalla 2025-11-25 141226" src="https://github.com/user-attachments/assets/3c5fc3e2-e3c2-4d0b-95fd-d051df983aff" />
-<img width="1880" height="542" alt="Captura de pantalla 2025-11-25 141439" src="https://github.com/user-attachments/assets/c1a11e87-2cf6-4bc0-8378-31c599fb01f5" />
-<img width="1885" height="724" alt="Captura de pantalla 2025-11-25 141345" src="https://github.com/user-attachments/assets/741a3074-f99c-49d0-90d7-f13182c3c2e9" />
+<img width="1901" height="889" alt="Captura de pantalla 2025-12-02 140822" src="https://github.com/user-attachments/assets/e62a940e-5e16-419c-b43e-f8b42c49fb12" />
+<img width="1901" height="697" alt="Captura de pantalla 2025-12-02 140856" src="https://github.com/user-attachments/assets/ba9abbb2-4ce3-41d9-a6d6-e5fc2991d154" />
+<img width="1898" height="591" alt="Captura de pantalla 2025-12-02 140916" src="https://github.com/user-attachments/assets/58acab49-e2b5-49a3-bcd6-d39f96dd7ac2" />
+<img width="1899" height="907" alt="Captura de pantalla 2025-12-02 140953" src="https://github.com/user-attachments/assets/883b7c5b-699a-41c2-903a-48351e8a290f" />
+
 
 # Stacks ⚙️
 * Frontend <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" /> 
