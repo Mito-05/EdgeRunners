@@ -1,5 +1,5 @@
 body {
-    font-family: 'Arial', sans-serif;
+    font-family: 'Chivo mono', monospace;
     margin: 0;
     padding: 0;
     background-color: #f4f4f4;
@@ -93,6 +93,10 @@ img {
     display: flex;
     align-items: center;
     justify-content: flex-start; 
+}
+.logo-img{
+    height: 75px;
+    width: 75px;
 }
 
 .logo {
@@ -229,7 +233,6 @@ img {
     padding: 30px 5%;
     text-align: center;
     color: #2A3345; 
-    font-family: Arial, sans-serif;
     box-shadow: none; 
 }
 
@@ -333,7 +336,6 @@ img {
 .contact-section {
     background-color: #7D4464;
     padding: 30px 5%; 
-    font-family: Arial, sans-serif;
     text-align: center;
     color: #2A3345; 
     overflow: hidden; 
@@ -468,6 +470,9 @@ img {
     display: flex; 
     flex-direction: column;
     justify-content: space-between; 
+}
+.comment-item:hover{
+    animation: flotar 2s ease-in-out infinite alternate;
 }
 
 

@@ -1,5 +1,5 @@
 body {
-    font-family: 'Arial', sans-serif;
+    font-family: 'Chivo mono', monospace;
     margin: 0;
     padding: 0;
     background-color: #f4f4f4;
@@ -101,6 +101,10 @@ img {
     margin-right: 8px; 
 }
 
+.logo-img{
+    height: 75px;
+    width: 75px;
+}
 
 .main-nav-list {
     list-style: none;
