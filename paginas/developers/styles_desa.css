@@ -225,8 +225,7 @@ img {
 
 
 .portfolio-section {
-    background: linear-gradient(135deg, #2a3345 0%, #cf4e93 75%, #f2b950 100%);
-    padding: 40px 5%;
+    background: linear-gradient(180deg, #2A3345 0%, #613254 75%, #8D3161, #C07558, #F2B950 100%);
     margin-top: 50px;
     color: white; 
 }
