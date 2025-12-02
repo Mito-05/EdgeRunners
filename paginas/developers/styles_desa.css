@@ -211,20 +211,21 @@ img {
 }
 
 
-.melicode {
+.gitcode {
     background-color: #f7a63d; 
-    color: white; 
+    color:#2a3345; 
 }
 
 
 .linkedin {
     background-color: #f7a63d; 
-    color: white;
+    color:#2a3345;
 }
 
 .button:hover {
     transform: translateY(-2px);
-    color: #2A3345; 
+    color: #ffffff; 
+    background-color: #CF4E93;
 }
 
 
